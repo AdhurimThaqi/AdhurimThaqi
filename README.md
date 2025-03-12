@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me # memosite.netlify.app
 - 😄 Pronouns: ...
-- ⚡ Fun fact: i love GYM
+- ⚡ Fun fact: NOTHING
 
 <!---
 AdhurimThaqi/AdhurimThaqi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
