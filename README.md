@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AdhurimThaqi
 - 👀 I’m interested in web developement, UI/UX design, applications developement etc..
 - 🌱 I’m currently learning a lot of stuff
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ANY TECH Related Project
 - 📫 How to reach me ([Portfolio](https://memosite.netlify.app/))
 - 😄 Pronouns: ...
 - ⚡ Fun fact: NOTHING
