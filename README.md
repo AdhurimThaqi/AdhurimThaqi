@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning a ton of stuff
 - 💞️ I’m looking to collaborate on ANY TECH Related Project
 - 📫 How to reach me ([Portfolio](https://memosite.netlify.app/))
-- 📃 Gonna update this README.md file with the time
-- 😶‍🌫️ Started learning Cloud Environment
+- 📃 Going to update this README.md file with the time
+- 😶‍🌫️ Started learning Cloud Computing Environments
 - ⚡ Fun fact: NOTHING
 
 <!---
