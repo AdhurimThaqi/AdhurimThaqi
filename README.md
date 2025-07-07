@@ -2,7 +2,7 @@
 - 👀 I’m interested in web developement, UI/UX design, applications developement etc..
 - 🌱 I’m currently learning a ton of stuff
 - 💞️ I’m looking to collaborate on ANY TECH Related Project
-- 📫 How to reach me ([Portfolio](https://memosite.netlify.app/))
+- 📫 How to reach me ([Portfolio](https://adhurim.ch/))
 - 📃 Going to update this README.md file with the time
 - 😶‍🌫️ Started learning Cloud Computing Environments
 - ⚡ Fun fact: NOTHING
