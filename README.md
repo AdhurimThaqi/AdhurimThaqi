@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AdhurimThaqi
-- 👀 I’m interested in web developement, UI/UX design, applications developement etc.. Lately LLMs have gotten my attention so im focused on there 
+- 👀 I’m interested in web developement, UI/UX design, applications developement etc.. Lately LLMs have gotten my attention so im focused on there and also doing XR/MR at the same time
 - 🌱 I’m currently learning a ton of stuff
 - 💞️ I’m looking to collaborate on ANY TECH Related Project
 - 📫 How to reach me ([Portfolio](https://adhurim.ch/))
